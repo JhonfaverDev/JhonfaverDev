@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JhonfaverDev.JhonfaverDev&"  />
-</div>
-
-###
-
 <h1 align="center">Hello world! I'm Jhon Faver</h1>
 
 ###
