@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center">I am passionate about laravel, .Net and angular development. I always like to give the best of me as a person and developer.👩‍💻</h3>
+<h3 align="center">👩‍💻</h3>
 
 ###
 
