@@ -1,11 +1,9 @@
 <div align="center">
-  <!-- Avatar con bordes redondeados -->
   <img height="180" src="https://avatars.githubusercontent.com/u/143977106?s=400&u=4470cae6673e31214cd19ae21fc76fda6530cf2c&v=4" style="border-radius: 50%;" />
 
   <h1>Hello world! I'm Jhon Faver 👋</h1>
   <p>🚀 Systems Engineering Student & Backend Developer</p>
 
-  <!-- Social & Contact Badges -->
   <a href="https://github.com/JhonfaverDev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
   </a>
@@ -73,7 +71,7 @@
 ### 🎮 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JhonfaverDev/JhonfaverDev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JhonfaverDev/JhonfaverDev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br />
@@ -81,6 +79,6 @@
 ---
 
 <div align="center">
-  <p>👁️ Profile Views</p>
-  <img src="https://profile-counter.glitch.me/JhonfaverDev/count.svg" alt="Views counter" />
+  <!-- Contador estable mediante Komarev PVC -->
+  <img src="https://komarev.com/ghpvc/?username=JhonfaverDev&label=PROFILE+VIEWS&color=7289DA&style=for-the-badge" alt="Views counter" />
 </div>
