@@ -1,8 +1,8 @@
 <div align="center">
   <img height="180" src="https://avatars.githubusercontent.com/u/143977106?s=400&u=4470cae6673e31214cd19ae21fc76fda6530cf2c&v=4" style="border-radius: 50%;" />
 
-  <h1>Hello world! I'm Jhon Faver 👋</h1>
-  <p>🚀 Systems Engineering Student & Backend Developer</p>
+  <h1>Hello world! I'm Jhon Faver</h1>
+  <p>Systems Engineering Student & Backend Developer</p>
 
   <a href="https://github.com/JhonfaverDev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JhonfaverDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -68,7 +68,7 @@
 
 ---
 
-### 🎮 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JhonfaverDev/JhonfaverDev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
