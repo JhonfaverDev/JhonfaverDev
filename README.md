@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://avatars.githubusercontent.com/u/143977106?s=400&u=4470cae6673e31214cd19ae21fc76fda6530cf2c&v=4" style="border-radius: 50%;" />
+  <img height="180" src="https://avatars.githubusercontent.com/u/143977106?s=400&u=4470cae6673e31214cd19ae21fc76fda6530cf2c&v=4" style="border-radius: 50%;" alt="Jhon Faver Avatar" />
 
   <h1>Hello world! I'm Jhon Faver</h1>
   <p>Systems Engineering Student & Backend Developer</p>
@@ -13,7 +13,7 @@
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
@@ -54,14 +54,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonfaverDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonfaverDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JhonfaverDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="175" alt="streak graph" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=JhonfaverDev&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs?username=JhonfaverDev&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 <br />
@@ -71,7 +65,7 @@
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JhonfaverDev/JhonfaverDev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JhonfaverDev/JhonfaverDev/output/github-snake.svg" alt="Snake animation" />
 </div>
 
 <br />
@@ -79,6 +73,5 @@
 ---
 
 <div align="center">
-  <!-- Contador estable mediante Komarev PVC -->
   <img src="https://komarev.com/ghpvc/?username=JhonfaverDev&label=PROFILE+VIEWS&color=7289DA&style=for-the-badge" alt="Views counter" />
 </div>
